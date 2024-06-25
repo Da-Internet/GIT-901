@@ -1,5 +1,7 @@
 Archivo Local
 
-Aqui agregamos unas nuevas lineas en el archivo local 2
+Aqui agregamos unas nuevas lineas en el archivo local 2, y editaremos aqui todo lo local
+1 2 3 4 5
+a b c d e
 
 Aqui agregamos unas lineas mas en el archivo en linea
