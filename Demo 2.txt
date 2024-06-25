@@ -4,4 +4,6 @@ Aqui agregamos unas nuevas lineas en el archivo local 2, y editaremos aqui todo 
 1 2 3 4 5
 a b c d e
 
-Aqui agregamos unas lineas mas en el archivo en linea
+Aqui agregamos unas lineas mas en el archivo 2 en linea
+6 7 8 9 10
+f g h i j
